@@ -4,7 +4,7 @@ import requests
 from git import Repo
 import time
 
-repo_path = '/root/grasspr/'  # Path to the Git repository
+repo_path = "/data/data/com.termux/files/home/getgrass"  # Path to the Git repository
 
 while True:
     # Download the file from the URL
@@ -29,4 +29,5 @@ while True:
 
     # Wait for 5 minutes before running the loop again
     time.sleep(5 * 60)
+
 
