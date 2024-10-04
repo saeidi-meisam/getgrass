@@ -1,0 +1,145 @@
+2024-10-04 01:07:38.813 | INFO     | __main__:log_message:22 - Downloading proxies from https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/all.txt...
+2024-10-04 01:07:39.275 | INFO     | __main__:log_message:22 - Download complete. Total proxies fetched: 569
+2024-10-04 01:07:39.281 | INFO     | __main__:log_message:22 - Added 569 new proxies to all_proxies.txt.
+2024-10-04 01:07:39.284 | INFO     | __main__:log_message:22 - Updated proxy.txt with 98 SOCKS5 proxies.
+2024-10-04 01:12:14.771 | INFO     | __main__:log_message:22 - Downloading proxies from https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/all.txt...
+2024-10-04 01:12:15.170 | INFO     | __main__:log_message:22 - Download complete. Total proxies fetched: 520
+2024-10-04 01:12:15.175 | INFO     | __main__:log_message:22 - Added 367 new proxies to all_proxies.txt.
+2024-10-04 01:12:15.177 | INFO     | __main__:log_message:22 - Updated proxy.txt with 158 SOCKS5 proxies.
+2024-10-04 01:13:43.344 | INFO     | __main__:log_message:22 - Starting to check 158 SOCKS5 proxies...
+2024-10-04 01:23:42.637 | INFO     | __main__:log_message:22 - Proxy socks5://167.71.220.29:7497 failed the check and will be removed.
+2024-10-04 01:23:42.643 | INFO     | __main__:log_message:22 - Proxy socks5://188.165.192.99:63053 failed the check and will be removed.
+2024-10-04 01:23:42.644 | INFO     | __main__:log_message:22 - Proxy socks5://212.83.143.211:49554 failed the check and will be removed.
+2024-10-04 01:23:42.644 | INFO     | __main__:log_message:22 - Proxy socks5://66.29.128.245:21850 failed the check and will be removed.
+2024-10-04 01:23:42.645 | INFO     | __main__:log_message:22 - Proxy socks5://38.57.3.47:13851 failed the check and will be removed.
+2024-10-04 01:23:42.645 | INFO     | __main__:log_message:22 - Proxy socks5://162.243.12.236:54894 failed the check and will be removed.
+2024-10-04 01:23:42.645 | INFO     | __main__:log_message:22 - Proxy socks5://38.57.3.47:64359 failed the check and will be removed.
+2024-10-04 01:23:42.646 | INFO     | __main__:log_message:22 - Proxy socks5://138.201.21.218:43794 failed the check and will be removed.
+2024-10-04 01:23:42.646 | INFO     | __main__:log_message:22 - Proxy socks5://82.165.198.169:41179 failed the check and will be removed.
+2024-10-04 01:23:42.647 | INFO     | __main__:log_message:22 - Proxy socks5://159.203.5.54:58493 failed the check and will be removed.
+2024-10-04 01:23:42.647 | INFO     | __main__:log_message:22 - Proxy socks5://108.181.132.116:34784 failed the check and will be removed.
+2024-10-04 01:23:42.648 | INFO     | __main__:log_message:22 - Proxy socks5://132.148.167.243:17506 failed the check and will be removed.
+2024-10-04 01:23:42.648 | INFO     | __main__:log_message:22 - Proxy socks5://163.172.178.82:16379 failed the check and will be removed.
+2024-10-04 01:23:42.648 | INFO     | __main__:log_message:22 - Proxy socks5://82.165.198.169:40241 failed the check and will be removed.
+2024-10-04 01:23:42.648 | INFO     | __main__:log_message:22 - Proxy socks5://212.83.142.131:25269 failed the check and will be removed.
+2024-10-04 01:23:42.649 | INFO     | __main__:log_message:22 - Proxy socks5://163.172.170.146:16379 failed the check and will be removed.
+2024-10-04 01:23:42.649 | INFO     | __main__:log_message:22 - Proxy socks5://212.83.143.147:59477 failed the check and will be removed.
+2024-10-04 01:23:42.649 | INFO     | __main__:log_message:22 - Proxy socks5://82.165.198.169:36613 failed the check and will be removed.
+2024-10-04 01:23:42.650 | INFO     | __main__:log_message:22 - Proxy socks5://184.168.121.153:52630 failed the check and will be removed.
+2024-10-04 01:23:42.650 | INFO     | __main__:log_message:22 - Proxy socks5://148.113.1.131:1080 failed the check and will be removed.
+2024-10-04 01:23:42.651 | INFO     | __main__:log_message:22 - Proxy socks5://162.0.220.219:47785 failed the check and will be removed.
+2024-10-04 01:23:42.651 | INFO     | __main__:log_message:22 - Proxy socks5://82.165.198.169:20259 failed the check and will be removed.
+2024-10-04 01:23:42.651 | INFO     | __main__:log_message:22 - Proxy socks5://132.148.128.8:51337 failed the check and will be removed.
+2024-10-04 01:23:42.652 | INFO     | __main__:log_message:22 - Proxy socks5://37.59.56.111:59166 failed the check and will be removed.
+2024-10-04 01:23:42.652 | INFO     | __main__:log_message:22 - Proxy socks5://135.125.132.136:55484 failed the check and will be removed.
+2024-10-04 01:23:42.653 | INFO     | __main__:log_message:22 - Proxy socks5://135.125.132.136:58476 failed the check and will be removed.
+2024-10-04 01:23:42.653 | INFO     | __main__:log_message:22 - Proxy socks5://199.204.248.155:55970 failed the check and will be removed.
+2024-10-04 01:23:42.653 | INFO     | __main__:log_message:22 - Proxy socks5://195.133.250.173:3128 failed the check and will be removed.
+2024-10-04 01:23:42.654 | INFO     | __main__:log_message:22 - Proxy socks5://82.165.198.169:52527 failed the check and will be removed.
+2024-10-04 01:23:42.654 | INFO     | __main__:log_message:22 - Proxy socks5://67.213.210.61:10402 failed the check and will be removed.
+2024-10-04 01:23:42.654 | INFO     | __main__:log_message:22 - Proxy socks5://66.23.233.210:63719 failed the check and will be removed.
+2024-10-04 01:23:42.655 | INFO     | __main__:log_message:22 - Proxy socks5://185.23.118.97:62026 failed the check and will be removed.
+2024-10-04 01:23:42.655 | INFO     | __main__:log_message:22 - Proxy socks5://95.188.69.230:1080 failed the check and will be removed.
+2024-10-04 01:23:42.655 | INFO     | __main__:log_message:22 - Proxy socks5://132.148.167.243:21363 failed the check and will be removed.
+2024-10-04 01:23:42.656 | INFO     | __main__:log_message:22 - Proxy socks5://132.148.167.243:29045 failed the check and will be removed.
+2024-10-04 01:23:42.656 | INFO     | __main__:log_message:22 - Proxy socks5://103.179.124.10:1080 failed the check and will be removed.
+2024-10-04 01:23:42.657 | INFO     | __main__:log_message:22 - Proxy socks5://172.105.58.227:1080 failed the check and will be removed.
+2024-10-04 01:23:42.657 | INFO     | __main__:log_message:22 - Proxy socks5://162.241.73.195:51914 failed the check and will be removed.
+2024-10-04 01:23:42.657 | INFO     | __main__:log_message:22 - Proxy socks5://162.241.73.195:61786 failed the check and will be removed.
+2024-10-04 01:23:42.658 | INFO     | __main__:log_message:22 - Proxy socks5://174.138.176.77:64962 failed the check and will be removed.
+2024-10-04 01:23:42.658 | INFO     | __main__:log_message:22 - Proxy socks5://82.223.165.28:18356 failed the check and will be removed.
+2024-10-04 01:23:42.658 | INFO     | __main__:log_message:22 - Proxy socks5://198.199.64.196:11608 failed the check and will be removed.
+2024-10-04 01:23:42.658 | INFO     | __main__:log_message:22 - Proxy socks5://51.89.21.99:52594 failed the check and will be removed.
+2024-10-04 01:23:42.659 | INFO     | __main__:log_message:22 - Proxy socks5://137.184.133.124:36327 failed the check and will be removed.
+2024-10-04 01:23:42.659 | INFO     | __main__:log_message:22 - Proxy socks5://46.10.229.243:7777 failed the check and will be removed.
+2024-10-04 01:23:42.660 | INFO     | __main__:log_message:22 - Proxy socks5://82.165.198.169:10610 failed the check and will be removed.
+2024-10-04 01:23:42.660 | INFO     | __main__:log_message:22 - Proxy socks5://95.213.154.54:31337 failed the check and will be removed.
+2024-10-04 01:23:42.660 | INFO     | __main__:log_message:22 - Proxy socks5://194.36.178.61:1080 failed the check and will be removed.
+2024-10-04 01:23:42.661 | INFO     | __main__:log_message:22 - Proxy socks5://U2UrF6igHSDe:SNONOCwh@nrt.socks.ipvanish.com:1080 failed the check and will be removed.
+2024-10-04 01:23:42.661 | INFO     | __main__:log_message:22 - Proxy socks5://207.180.204.122:63828 failed the check and will be removed.
+2024-10-04 01:23:42.661 | INFO     | __main__:log_message:22 - Proxy socks5://103.199.117.224:8199 failed the check and will be removed.
+2024-10-04 01:23:42.661 | INFO     | __main__:log_message:22 - Proxy socks5://109.123.254.43:40929 failed the check and will be removed.
+2024-10-04 01:23:42.662 | INFO     | __main__:log_message:22 - Proxy socks5://209.159.153.20:60104 failed the check and will be removed.
+2024-10-04 01:23:42.662 | INFO     | __main__:log_message:22 - Proxy socks5://130.255.162.199:33620 failed the check and will be removed.
+2024-10-04 01:23:42.662 | INFO     | __main__:log_message:22 - Proxy socks5://158.247.254.113:1080 failed the check and will be removed.
+2024-10-04 01:23:42.663 | INFO     | __main__:log_message:22 - Proxy socks5://103.199.155.18:6969 failed the check and will be removed.
+2024-10-04 01:23:42.663 | INFO     | __main__:log_message:22 - Proxy socks5://216.238.102.254:1080 failed the check and will be removed.
+2024-10-04 01:23:42.663 | INFO     | __main__:log_message:22 - Proxy socks5://82.223.165.28:13238 failed the check and will be removed.
+2024-10-04 01:23:42.664 | INFO     | __main__:log_message:22 - Proxy socks5://82.165.198.169:29548 failed the check and will be removed.
+2024-10-04 01:23:42.664 | INFO     | __main__:log_message:22 - Proxy socks5://135.125.132.136:41201 failed the check and will be removed.
+2024-10-04 01:23:42.664 | INFO     | __main__:log_message:22 - Proxy socks5://51.89.21.99:50627 failed the check and will be removed.
+2024-10-04 01:23:42.665 | INFO     | __main__:log_message:22 - Proxy socks5://46.105.105.223:34293 failed the check and will be removed.
+2024-10-04 01:23:42.665 | INFO     | __main__:log_message:22 - Proxy socks5://66.29.128.242:37763 failed the check and will be removed.
+2024-10-04 01:23:42.665 | INFO     | __main__:log_message:22 - Proxy socks5://207.180.204.122:40071 failed the check and will be removed.
+2024-10-04 01:23:42.665 | INFO     | __main__:log_message:22 - Proxy socks5://171.244.140.160:40071 failed the check and will be removed.
+2024-10-04 01:23:42.666 | INFO     | __main__:log_message:22 - Proxy socks5://92.204.135.37:47189 failed the check and will be removed.
+2024-10-04 01:23:42.666 | INFO     | __main__:log_message:22 - Proxy socks5://38.91.107.2:63785 failed the check and will be removed.
+2024-10-04 01:23:42.667 | INFO     | __main__:log_message:22 - Proxy socks5://77.238.245.102:1080 failed the check and will be removed.
+2024-10-04 01:23:42.667 | INFO     | __main__:log_message:22 - Proxy socks5://82.223.165.28:42281 failed the check and will be removed.
+2024-10-04 01:23:42.667 | INFO     | __main__:log_message:22 - Proxy socks5://51.75.126.150:9454 failed the check and will be removed.
+2024-10-04 01:23:42.668 | INFO     | __main__:log_message:22 - Proxy socks5://5.39.69.35:38626 failed the check and will be removed.
+2024-10-04 01:23:42.668 | INFO     | __main__:log_message:22 - Proxy socks5://5.39.69.35:51285 failed the check and will be removed.
+2024-10-04 01:23:42.668 | INFO     | __main__:log_message:22 - Proxy socks5://207.55.244.253:58173 failed the check and will be removed.
+2024-10-04 01:23:42.668 | INFO     | __main__:log_message:22 - Proxy socks5://51.255.80.151:41140 failed the check and will be removed.
+2024-10-04 01:23:42.668 | INFO     | __main__:log_message:22 - Proxy socks5://5.39.69.35:29690 failed the check and will be removed.
+2024-10-04 01:23:42.669 | INFO     | __main__:log_message:22 - Proxy socks5://162.14.65.108:9999 failed the check and will be removed.
+2024-10-04 01:23:42.669 | INFO     | __main__:log_message:22 - Proxy socks5://198.7.56.72:11276 failed the check and will be removed.
+2024-10-04 01:23:42.669 | INFO     | __main__:log_message:22 - Proxy socks5://67.205.177.122:16559 failed the check and will be removed.
+2024-10-04 01:23:42.669 | INFO     | __main__:log_message:22 - Proxy socks5://51.89.21.99:64060 failed the check and will be removed.
+2024-10-04 01:23:42.669 | INFO     | __main__:log_message:22 - Proxy socks5://67.205.177.122:41866 failed the check and will be removed.
+2024-10-04 01:23:42.669 | INFO     | __main__:log_message:22 - Proxy socks5://193.124.189.132:8085 failed the check and will be removed.
+2024-10-04 01:23:42.670 | INFO     | __main__:log_message:22 - Proxy socks5://132.148.167.243:19560 failed the check and will be removed.
+2024-10-04 01:23:42.670 | INFO     | __main__:log_message:22 - Proxy socks5://171.244.140.160:2121 failed the check and will be removed.
+2024-10-04 01:23:42.670 | INFO     | __main__:log_message:22 - Proxy socks5://154.12.178.107:29985 failed the check and will be removed.
+2024-10-04 01:23:42.670 | INFO     | __main__:log_message:22 - Proxy socks5://82.165.198.169:8789 failed the check and will be removed.
+2024-10-04 01:23:42.670 | INFO     | __main__:log_message:22 - Proxy socks5://137.184.133.124:14514 failed the check and will be removed.
+2024-10-04 01:23:42.670 | INFO     | __main__:log_message:22 - Proxy socks5://167.71.218.223:40446 failed the check and will be removed.
+2024-10-04 01:23:42.671 | INFO     | __main__:log_message:22 - Proxy socks5://137.184.133.124:61810 failed the check and will be removed.
+2024-10-04 01:23:42.671 | INFO     | __main__:log_message:22 - Proxy socks5://162.0.220.214:44240 failed the check and will be removed.
+2024-10-04 01:23:42.671 | INFO     | __main__:log_message:22 - Proxy socks5://51.75.126.150:21590 failed the check and will be removed.
+2024-10-04 01:23:42.671 | INFO     | __main__:log_message:22 - Proxy socks5://82.165.198.169:36620 failed the check and will be removed.
+2024-10-04 01:23:42.671 | INFO     | __main__:log_message:22 - Proxy socks5://51.75.126.150:21660 failed the check and will be removed.
+2024-10-04 01:23:42.672 | INFO     | __main__:log_message:22 - Proxy socks5://174.138.176.76:10418 failed the check and will be removed.
+2024-10-04 01:23:42.672 | INFO     | __main__:log_message:22 - Proxy socks5://188.191.164.55:4890 failed the check and will be removed.
+2024-10-04 01:23:42.672 | INFO     | __main__:log_message:22 - Proxy socks5://147.124.212.31:55630 failed the check and will be removed.
+2024-10-04 01:23:42.672 | INFO     | __main__:log_message:22 - Proxy socks5://46.105.105.223:32706 failed the check and will be removed.
+2024-10-04 01:23:42.672 | INFO     | __main__:log_message:22 - Proxy socks5://202.149.67.162:7999 failed the check and will be removed.
+2024-10-04 01:23:42.672 | INFO     | __main__:log_message:22 - Proxy socks5://93.184.5.121:1080 failed the check and will be removed.
+2024-10-04 01:23:42.673 | INFO     | __main__:log_message:22 - Proxy socks5://162.241.73.195:33203 failed the check and will be removed.
+2024-10-04 01:23:42.673 | INFO     | __main__:log_message:22 - Proxy socks5://37.27.35.27:10089 failed the check and will be removed.
+2024-10-04 01:23:42.673 | INFO     | __main__:log_message:22 - Proxy socks5://38.91.107.224:32369 failed the check and will be removed.
+2024-10-04 01:23:42.673 | INFO     | __main__:log_message:22 - Proxy socks5://161.97.161.81:17904 failed the check and will be removed.
+2024-10-04 01:23:42.674 | INFO     | __main__:log_message:22 - Proxy socks5://184.168.121.153:47137 failed the check and will be removed.
+2024-10-04 01:23:42.674 | INFO     | __main__:log_message:22 - Proxy socks5://51.75.126.150:51869 failed the check and will be removed.
+2024-10-04 01:23:42.674 | INFO     | __main__:log_message:22 - Proxy socks5://139.84.135.239:1080 failed the check and will be removed.
+2024-10-04 01:23:42.674 | INFO     | __main__:log_message:22 - Proxy socks5://89.104.108.244:1080 failed the check and will be removed.
+2024-10-04 01:23:42.674 | INFO     | __main__:log_message:22 - Proxy socks5://162.210.197.91:46751 failed the check and will be removed.
+2024-10-04 01:23:42.674 | INFO     | __main__:log_message:22 - Proxy socks5://207.148.77.68:1080 failed the check and will be removed.
+2024-10-04 01:23:42.675 | INFO     | __main__:log_message:22 - Proxy socks5://67.213.212.50:56614 failed the check and will be removed.
+2024-10-04 01:23:42.675 | INFO     | __main__:log_message:22 - Proxy socks5://82.165.198.169:48285 failed the check and will be removed.
+2024-10-04 01:23:42.675 | INFO     | __main__:log_message:22 - Proxy socks5://54.38.44.6:22564 failed the check and will be removed.
+2024-10-04 01:23:42.675 | INFO     | __main__:log_message:22 - Proxy socks5://64.176.15.86:1080 failed the check and will be removed.
+2024-10-04 01:23:42.675 | INFO     | __main__:log_message:22 - Proxy socks5://183.178.167.131:3128 failed the check and will be removed.
+2024-10-04 01:23:42.676 | INFO     | __main__:log_message:22 - Proxy socks5://51.89.21.99:56186 failed the check and will be removed.
+2024-10-04 01:23:42.676 | INFO     | __main__:log_message:22 - Proxy socks5://51.75.126.150:14803 failed the check and will be removed.
+2024-10-04 01:23:42.676 | INFO     | __main__:log_message:22 - Proxy socks5://103.174.178.132:1020 failed the check and will be removed.
+2024-10-04 01:23:42.676 | INFO     | __main__:log_message:22 - Proxy socks5://82.165.198.169:41569 failed the check and will be removed.
+2024-10-04 01:23:42.676 | INFO     | __main__:log_message:22 - Proxy socks5://103.230.212.21:7302 failed the check and will be removed.
+2024-10-04 01:23:42.676 | INFO     | __main__:log_message:22 - Proxy socks5://37.59.213.49:39342 failed the check and will be removed.
+2024-10-04 01:23:42.677 | INFO     | __main__:log_message:22 - Proxy socks5://0fUAhdwsmly:XJVT5Mid@lax.socks.ipvanish.com:1080 failed the check and will be removed.
+2024-10-04 01:23:42.677 | INFO     | __main__:log_message:22 - Proxy socks5://47.88.104.193:6815 failed the check and will be removed.
+2024-10-04 01:23:42.677 | INFO     | __main__:log_message:22 - Proxy socks5://103.152.232.56:8199 failed the check and will be removed.
+2024-10-04 01:23:42.677 | INFO     | __main__:log_message:22 - Proxy socks5://66.29.129.56:14072 failed the check and will be removed.
+2024-10-04 01:23:42.677 | INFO     | __main__:log_message:22 - Proxy socks5://37.27.35.27:10067 failed the check and will be removed.
+2024-10-04 01:23:42.678 | INFO     | __main__:log_message:22 - Proxy socks5://172.104.209.44:1080 failed the check and will be removed.
+2024-10-04 01:23:42.679 | INFO     | __main__:log_message:22 - Check complete. 33 out of 158 proxies are valid.
+2024-10-04 01:35:41.065 | INFO     | __main__:log_message:26 - Starting to check 33 SOCKS5 proxies...
+2024-10-04 01:35:41.140 | INFO     | __main__:log_message:26 - Check complete. 33 out of 33 proxies are valid.
+2024-10-04 01:36:24.439 | INFO     | __main__:log_message:22 - Downloading proxies from https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/all.txt...
+2024-10-04 01:36:25.307 | INFO     | __main__:log_message:22 - Download complete. Total proxies fetched: 520
+2024-10-04 01:36:25.312 | INFO     | __main__:log_message:22 - No new proxies were added (all proxies already exist).
+2024-10-04 01:36:25.313 | INFO     | __main__:log_message:22 - Updated proxy.txt with 158 SOCKS5 proxies.
+2024-10-04 01:51:27.757 | INFO     | __main__:log_message:22 - Starting to check 158 SOCKS5 proxies...
+2024-10-04 01:51:27.979 | INFO     | __main__:log_message:22 - Proxy socks5://0fUAhdwsmly:XJVT5Mid@lax.socks.ipvanish.com:1080 failed the check and will be removed.
+2024-10-04 01:51:27.980 | INFO     | __main__:log_message:22 - Proxy socks5://U2UrF6igHSDe:SNONOCwh@nrt.socks.ipvanish.com:1080 failed the check and will be removed.
+2024-10-04 01:51:27.981 | INFO     | __main__:log_message:22 - Check complete. 156 out of 158 proxies are valid.
