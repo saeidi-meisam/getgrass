@@ -36,12 +36,18 @@ async def test_ws():
                         "browser_id": device_id,
                         "user_id": user_id,
                         "user_agent": user_agent,
-                        "timestamp": int(time.time()),
+                        "timestamp": int(time.time()),  # استفاده از timestamp صحیح
                         "device_type": "extension",
                         "version": "4.0.2"
+                        # ممکن است به پارامترهای دیگری نیاز باشد
                     }
                 }
                 print(f"Sending AUTH response: {auth_response}")
                 await websocket.send(json.dumps(auth_response))
+            
+            # ممکن است به پیام‌های دیگر نیز نیاز باشد
+            # else:
+            #   other processing...
 
 asyncio.run(test_ws())
+
