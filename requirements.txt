@@ -1,0 +1,6 @@
+gitpython
+requests
+asyncio
+loguru
+websockets_proxy
+fake_useragent	
